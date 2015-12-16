@@ -1,0 +1,10 @@
+body{
+	background-image: url(wiggles.jpg);
+	background-size: cover;
+}
+
+h1{
+	text-align: center;
+	color: purple;
+	text-decoration: underline;
+}
